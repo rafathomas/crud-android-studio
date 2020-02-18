@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFAF0"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="26dp">
+
+        <Button
+            android:id="@+id/buttonVoltar"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:background="@drawable/buttonshape"
+            android:layout_height="31dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:text="Voltar"
+            android:textColor="#F8F8F8" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/listViewPessoas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

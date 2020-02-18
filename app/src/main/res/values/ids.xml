@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listViewOpcoes" type="id" />
+    <item name="editTextNome" type="id" />
+    <item name="editTextEndereco" type="id" />
+    <item name="radioButtonMasculino" type="id" />
+    <item name="radioButtonFeminino" type="id" />
+    <item name="radioGroupSexo" type="id" />
+    <item name="editTextDataNascimento" type="id" />
+    <item name="spinnerEstadoCivil" type="id" />
+    <item name="checkBoxRegistroAtivo" type="id" />
+    <item name="buttonSalvar" type="id" />
+    <item name="buttonVoltar" type="id" />
+    <item name="buttonAlterar" type="id" />
+    <item name="editTextCodigo" type="id" />
+</resources>

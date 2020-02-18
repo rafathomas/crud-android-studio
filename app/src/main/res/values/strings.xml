@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppCadastro</string>
+    <string name="action_settings">Settings</string>
+    <string name="salvar">Salvar</string>
+    <string name="voltar">Voltar</string>
+    <string name="nome_obrigatorio">O nome é de preenchimento obrigatório!</string>
+    <string name="endereco_obrigatorio">O endereço é de preenchimento obrigatório!</string>
+    <string name="sexo_obrigatorio">O sexo é de preenchimento obrigatório!</string>
+    <string name="data_nascimento_obrigatorio">A data de nascimento é de preenchimento obrigatório!</string>
+    <string name="registro_salvo_sucesso">Registro salvo com sucesso!</string>
+
+</resources>
